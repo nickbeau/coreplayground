@@ -1,0 +1,193 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "CSOMCoreTests/1.0.0": {
+        "dependencies": {
+          "Microsoft.Office.Client.Policy.Portable": "16.1.0.0",
+          "Microsoft.Office.Client.TranslationServices.Portable": "16.1.0.0",
+          "Microsoft.ProjectServer.Client.Portable": "16.1.0.0",
+          "Microsoft.SharePoint.Client.DocumentManagement.Portable": "16.1.0.0",
+          "Microsoft.SharePoint.Client.Portable": "16.1.0.0",
+          "Microsoft.SharePoint.Client.Publishing.Portable": "16.1.0.0",
+          "Microsoft.SharePoint.Client.Runtime.Portable": "16.1.0.0",
+          "Microsoft.SharePoint.Client.Search.Applications.Portable": "16.1.0.0",
+          "Microsoft.SharePoint.Client.Search.Portable": "16.1.0.0",
+          "Microsoft.SharePoint.Client.Taxonomy.Portable": "16.1.0.0",
+          "Microsoft.SharePoint.Client.UserProfiles.Portable": "16.1.0.0",
+          "Microsoft.SharePoint.Client.WorkflowServices.Portable": "16.1.0.0"
+        },
+        "runtime": {
+          "CSOMCoreTests.dll": {}
+        }
+      },
+      "Microsoft.Office.Client.Policy.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.Office.Client.Policy.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.Office.Client.TranslationServices.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.Office.Client.TranslationServices.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.ProjectServer.Client.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.ProjectServer.Client.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.SharePoint.Client.DocumentManagement.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.SharePoint.Client.DocumentManagement.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.SharePoint.Client.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.SharePoint.Client.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.SharePoint.Client.Publishing.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.SharePoint.Client.Publishing.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.SharePoint.Client.Runtime.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.SharePoint.Client.Runtime.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.SharePoint.Client.Search.Applications.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.SharePoint.Client.Search.Applications.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.SharePoint.Client.Search.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.SharePoint.Client.Search.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.SharePoint.Client.Taxonomy.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.SharePoint.Client.Taxonomy.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.SharePoint.Client.UserProfiles.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.SharePoint.Client.UserProfiles.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      },
+      "Microsoft.SharePoint.Client.WorkflowServices.Portable/16.1.0.0": {
+        "runtime": {
+          "Microsoft.SharePoint.Client.WorkflowServices.Portable.dll": {
+            "assemblyVersion": "16.1.0.0",
+            "fileVersion": "16.1.8029.1200"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSOMCoreTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Client.Policy.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Client.TranslationServices.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ProjectServer.Client.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client.DocumentManagement.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client.Publishing.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client.Runtime.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client.Search.Applications.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client.Search.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client.Taxonomy.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client.UserProfiles.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SharePoint.Client.WorkflowServices.Portable/16.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

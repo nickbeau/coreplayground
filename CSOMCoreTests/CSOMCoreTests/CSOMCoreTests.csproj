@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Libraries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Client.Policy.Portable">
+      <HintPath>Libraries\Microsoft.Office.Client.Policy.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Client.TranslationServices.Portable">
+      <HintPath>Libraries\Microsoft.Office.Client.TranslationServices.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ProjectServer.Client.Portable">
+      <HintPath>Libraries\Microsoft.ProjectServer.Client.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.DocumentManagement.Portable">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.DocumentManagement.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.Portable">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Sharepoint.Client.Publishing.Portable">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.Publishing.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.Runtime.Portable">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.Runtime.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.Search.Applications.Portable">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.Search.Applications.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.Search.Portable">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.Search.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.Taxonomy.Portable">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.Taxonomy.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.UserProfiles.Portable">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.UserProfiles.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.WorkflowServices.Portable">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.WorkflowServices.Portable.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
