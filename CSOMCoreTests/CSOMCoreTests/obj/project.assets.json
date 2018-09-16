@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nick\\.nuget\\packages\\": {},
+    "C:\\Users\\Nick\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\s\\dotnetplayground\\CSOMCoreTests\\CSOMCoreTests\\CSOMCoreTests.csproj",
+      "projectUniqueName": "C:\\s\\coreplayground\\CSOMCoreTests\\CSOMCoreTests\\CSOMCoreTests.csproj",
       "projectName": "CSOMCoreTests",
-      "projectPath": "c:\\s\\dotnetplayground\\CSOMCoreTests\\CSOMCoreTests\\CSOMCoreTests.csproj",
-      "packagesPath": "C:\\Users\\nick\\.nuget\\packages\\",
-      "outputPath": "c:\\s\\dotnetplayground\\CSOMCoreTests\\CSOMCoreTests\\obj\\",
+      "projectPath": "C:\\s\\coreplayground\\CSOMCoreTests\\CSOMCoreTests\\CSOMCoreTests.csproj",
+      "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+      "outputPath": "C:\\s\\coreplayground\\CSOMCoreTests\\CSOMCoreTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
