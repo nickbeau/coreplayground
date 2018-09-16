@@ -31,6 +31,9 @@
     <Reference Include="Microsoft.SharePoint.Client.Runtime.Portable">
       <HintPath>Libraries\Microsoft.SharePoint.Client.Runtime.Portable.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.Runtime.Windows">
+      <HintPath>Libraries\Microsoft.SharePoint.Client.Runtime.Windows.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.SharePoint.Client.Search.Applications.Portable">
       <HintPath>Libraries\Microsoft.SharePoint.Client.Search.Applications.Portable.dll</HintPath>
     </Reference>
